@@ -1,4 +1,3 @@
-# AI-Tools-Mini-Project
 print("Welcome to AI Tools Mini Project!")
 print("I am learning how to use AI tools for coding.")
 
@@ -12,10 +11,10 @@ choice = input("Enter your choice (1-3): ")
 if choice == "1":
     print("ChatGPT helps with coding, learning, and writing.")
 elif choice == "2":
-    print("Google Gemini helps with learning, research, and writing.")
+    print("Google Gemini helps with learning and research.")
 elif choice == "3":
     print("Microsoft Copilot helps with coding and productivity.")
 else:
     print("Invalid choice. Please select 1, 2, or 3.")
 
-print("\nThank you for using the AI Tools Mini Project!")
+print("Thank you for using the AI Tools Mini Project!")
